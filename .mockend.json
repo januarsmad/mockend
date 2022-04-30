@@ -1,6 +1,6 @@
 {
   "User": {
     "username": { "string": {} },
-    "passowrd": {"string": "masuk123"}
+    "passowrd": { "regexp": "[a]{5}" }
   }
 }
